@@ -1,4 +1,4 @@
-# 🚀 Job Portal - MERN Stack Application
+<h1 align="center">🚀 Job Portal - MERN Stack Application</h1>
 
 <p align="center">
 A full-stack, production-ready <strong>Job Portal</strong> built with the <strong>MERN Stack</strong>, enabling job seekers, employers, and administrators to manage the complete hiring process through a modern and responsive web application.
